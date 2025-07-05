@@ -1,4 +1,4 @@
-#UPUTE ZA POKRETANJE PROGRAMA
+# UPUTE ZA POKRETANJE PROGRAMA
 
 1. Klonirati projekt s GitHub-a u proizvoljnu mapu
 2. Preuzeti Bag-of-Lies skup podataka s https://iab-rubric.org/resources/other-databases
